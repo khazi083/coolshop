@@ -1,0 +1,11 @@
+<resources>
+    <string name="enter_e_mail_address">Enter E-Mail Address</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="click_to_login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="colon">:</string>
+    <string name="validemail">Enter a Valid E-mail Address</string>
+    <string name="validpass">Enter at least 4 Digit password</string>
+    <string name="api_error">api error, please try again with correct details</string>
+</resources>
